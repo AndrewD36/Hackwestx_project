@@ -6,9 +6,13 @@ We created a Blackjack game built using Python and the Pygame library. The game 
 
 ### Game Features:
 •	Blackjack Mechanics: Play a full game of Blackjack with hit and stand options.
+
 •	Background Music: A music player that shuffles and plays music from a local folder.
+
 •	Card Animations: Smooth card-dealing animations for an immersive gameplay experience.
+
 •	Pause Menu: The game includes a pause feature where players can mute or unmute sounds, change the background music, and adjust the volume.
+
 •	Settings Menu: Settings button to access controls for music and game options.
 
 ## Getting Started
